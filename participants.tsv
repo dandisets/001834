@@ -1,0 +1,17 @@
+participant_id	species	age	sex	strain
+HA240924	mouse	63	F	C57BL/6J, Emx1-Cre
+HA241008	mouse	97	F	C57BL/6J, Emx1-Cre
+HA241115	mouse	99	M	C57BL/6J, Emx1-Cre
+HA250327	mouse	84	F	B6-cdh23, VIP-Cre
+HA250401	mouse	88	M	C57BL/6J, Emx1-Cre
+HA250408	mouse	83	M	C57BL/6J, NR1-Flox
+HA250627	mouse	102	F	B6-cdh23
+HA250926B	mouse	148	M	B6-cdh23, VIP-Cre
+HA251020	mouse	65	M	B6-cdh23, Sst-Cre
+HA251112	mouse	88	M	B6-cdh23, Sst-Cre
+HA251115	mouse	91	M	B6-cdh23, Sst-Cre
+HA251126	mouse	102	M	B6-cdh23, Sst-Cre
+HA251219	mouse	125	M	B6-cdh23, Sst-Cre
+HK240831B	mouse	140	M	B6-cdh23
+HK241225	mouse	83	F	B6-cdh23
+HK241227	mouse	93	F	B6-cdh23, Ai9

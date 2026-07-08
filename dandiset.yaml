@@ -9,9 +9,19 @@ access:
   schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 283479384489
+  numberOfFiles: 1038
+  numberOfSamples: 46
+  numberOfSubjects: 17
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Kato, Hiroyuki (2026) Ascending inputs to inferior colliculus subdivisions
   reveal pathway-specific hybrid organization in the external cortex (Version draft)
   [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001834/draft
